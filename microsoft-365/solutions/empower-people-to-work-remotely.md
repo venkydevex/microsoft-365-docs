@@ -28,7 +28,7 @@ To secure and optimize your worker’s productivity and collaboration, you need 
 Hybrid workers can work on-site or remotely in a combination of locations. Allowing workers to work away from a traditional office is important for many organizations to:
 
 - Hire and retain workers who are unwilling to relocate or require a flexible work environment.
-- Reduce worker commuting, leaving workers with more time to be productive and for stress-reducing activities outside of work.
+- Reduce worker commuting, leaving workers with more time to be productive and for stress-reducing activities outside of work. ok
 - Save office space.
 
 Microsoft 365 has the capabilities to empower your hybrid workers to work either on-site or remotely.
